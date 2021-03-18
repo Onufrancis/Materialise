@@ -1,0 +1,37 @@
+.btn10 { 
+    background-color:#007bff;
+    border-radius: 7px;
+    padding: 9.7px 12px;
+    float: right; 
+}
+.btn10:hover {
+    background-color: blue;
+    color: white;
+}
+.navbar {
+    background-color: #0986b8;
+
+}
+.nav-link {
+    color: white;
+}
+.btn9 {
+    background-color:white;
+    border-radius: 7px;
+    padding: 9.7px 20px;
+    float: right;
+    cursor: pointer;
+}
+.btn9:hover {
+    background-color: rgba(221, 217, 217, 0.678);
+}
+.mb-4 {
+    font-size: larger;
+}
+.text {
+    color: blue;
+    position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 50px;
+}
